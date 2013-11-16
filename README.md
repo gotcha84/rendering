@@ -1,5 +1,5 @@
 CSE 167 - Introduction to Computer Graphics
-Project 3: rendering/rasterization
+Project 3: Rendering / Rasterization
 =========
 
 (See full project specifications here: http://ivl.calit2.net/wiki/index.php/Project3Fall13)
@@ -15,8 +15,8 @@ Objects:
 * F9: house (view2)
 
 Rendering:
-* o: toggle using OpenGL's default rasterizer and my implementated rasterizer (print time taken to render object if using my rasterizer)
-* b: toggle implementation and bounding boxes for two-level hierarchy (determines which triangles need to be rasterized)
+* o: Toggle using OpenGL's default rasterizer and my implementated rasterizer (print time taken to render object if using my rasterizer).
+* b: Toggle implementation and bounding boxes for two-level hierarchy (determines which triangles need to be rasterized).
 
 
 ![house view1 with rasterizer and bounding boxes](rendering.png "house view1 with rasterizer and bounding boxes")
